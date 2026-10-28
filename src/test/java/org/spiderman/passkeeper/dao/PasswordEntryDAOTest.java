@@ -1,11 +1,9 @@
-package org.spiderman.passkeeper.util;
+package org.spiderman.passkeeper.dao;
 
 import org.junit.Test;
-import org.spiderman.passkeeper.dao.PasswordEntryDAO;
 import org.spiderman.passkeeper.entity.PasswordEntry;
 
 import java.util.List;
-import java.util.Random;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;

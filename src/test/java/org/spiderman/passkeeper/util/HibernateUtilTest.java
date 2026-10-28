@@ -7,7 +7,7 @@ import org.spiderman.passkeeper.entity.PasswordEntry;
 
 import java.util.Random;
 
-public class DatabaseTest {
+public class HibernateUtilTest {
 
     @Test
     public void shouldConnectToDatabase() {
